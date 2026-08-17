@@ -15,6 +15,10 @@
 
 **AgentsHarness** 的愿景：让所有 Agent 支持**远程接入与相互调用**。第一个 subproject 是 **Capri**（摩羯座）——基于 [Agent Client Protocol](https://agentclientprotocol.com/) 的三件套工具链：**浏览器操作台**（capri-fe）↔ **本地节点**（capri-host）↔ **中心中继**（capri-hub），把 Grok Build（后续支持更多 Agent）的能力带到任何设备的浏览器，无需 APP。你的数据全在本地节点存储，浏览器和中心中继仅作展示和转发。
 
+## 截图
+
+![Capri 界面](profile/screenshot.png)
+
 ## 架构
 
 ```
