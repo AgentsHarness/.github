@@ -50,4 +50,4 @@ cd ../capri-host && HUB_URL=http://<hub>:8787 HUB_PAIR_CODE=<code> go run ./cmd/
 
 ## License
 
-MIT —— 各仓库均含 LICENSE 文件。
+MIT
