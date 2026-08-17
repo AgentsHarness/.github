@@ -17,7 +17,7 @@
 
 ## 截图
 
-![Capri 界面](profile/screenshot.png)
+![Capri 界面](screenshot.png)
 
 ## 架构
 
